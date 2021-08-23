@@ -1,0 +1,25 @@
+{
+  "name": "node-future-boilerplate",
+  "version": "1.0.0",
+  "description": "A 2021 Nodejs boilerplate.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinisaveg/node-future-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "vinisaveg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinisaveg/node-future-boilerplate/issues"
+  },
+  "homepage": "https://github.com/vinisaveg/node-future-boilerplate#readme",
+  "devDependencies": {
+    "@types/node": "^16.7.1",
+    "typecript": "^0.0.1-security"
+  }
+}
