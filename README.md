@@ -27,4 +27,44 @@ A 2021 Nodejs boilerplate, featuring Typescript, Express, Jest, and more...
 
 ```
 
-Setup in progress...
+- Install the dependencies
+
+```
+
+    yarn install
+
+```
+
+- Running the app in **development** mode
+
+```
+
+    yarn dev
+
+```
+
+- Preparing the app **build**
+
+```
+
+    yarn build
+
+```
+
+- Running the app in production mode
+
+```
+
+    yarn start
+
+```
+
+### Testing :rotating_light:
+
+- Run the unit tests
+
+```
+
+    yarn test:unit
+
+```
