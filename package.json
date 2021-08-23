@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
+    "dev": "tsnd --transpile-only --ignore-watch node_modules --respawn src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,6 +21,7 @@
   "homepage": "https://github.com/vinisaveg/node-future-boilerplate#readme",
   "devDependencies": {
     "@types/node": "^16.7.1",
-    "typecript": "^0.0.1-security"
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.3.5"
   }
 }
