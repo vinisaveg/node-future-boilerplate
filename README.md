@@ -76,3 +76,13 @@ A 2021 Nodejs boilerplate, featuring Typescript, Express, Jest, and more...
     yarn test:functional
 
 ```
+
+### Development :gear:
+
+Configuring husky and git hooks
+
+```bash
+
+    npx husky install
+
+```
