@@ -68,3 +68,11 @@ A 2021 Nodejs boilerplate, featuring Typescript, Express, Jest, and more...
     yarn test:unit
 
 ```
+
+- Run the functional tests
+
+```
+
+    yarn test:functional
+
+```
