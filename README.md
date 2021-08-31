@@ -16,6 +16,7 @@ A 2021 Nodejs boilerplate, featuring Typescript, Express, Jest, and more...
 
 - [`Jest`](https://jestjs.io)
 - [`ts-jest`](https://kulshekhar.github.io/ts-jest/)
+- [`supertest`](https://github.com/visionmedia/supertest)
 
 ### Installing :construction_worker:
 
