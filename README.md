@@ -84,6 +84,6 @@ Configuring husky and git hooks
 
 ```bash
 
-    npx husky install
+    yarn husky
 
 ```
