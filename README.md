@@ -4,7 +4,7 @@
 
 # node-future-boilerplate
 
-A 2021 Nodejs boilerplate, featuring Typescript, Express, Jest, and more...
+A 2024 Nodejs boilerplate, featuring Typescript, Express, Jest, and more...
 
 ### Techs :computer:
 
