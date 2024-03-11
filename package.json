@@ -4,6 +4,7 @@
   "description": "A 2024 Nodejs boilerplate.",
   "main": "index.js",
   "scripts": {
+    "prepare": "husky",
     "build": "tsc",
     "dev": "tsnd --transpile-only --ignore-watch node_modules --respawn src/index.ts",
     "start": "node build/src/index.js",
