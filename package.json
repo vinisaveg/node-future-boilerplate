@@ -6,7 +6,7 @@
   "scripts": {
     "build": "tsc",
     "dev": "tsnd --transpile-only --ignore-watch node_modules --respawn src/index.ts",
-    "start": "node build/index.js",
+    "start": "node build/src/index.js",
     "lint": "eslint ./src ./tests --ext .ts",
     "lint:fix": "eslint ./src ./tests --ext .ts --fix",
     "prettier:check": "prettier --check src/**/*.ts ",
